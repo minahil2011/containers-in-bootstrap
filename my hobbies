@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>
+            My Hobbies
+        </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <style>
+            #e1{
+                height: 300px;
+                width: 350px;
+                border-radius:35px;
+            }
+            #e2{
+                height: 300px;
+                width: 350px;
+                border-radius:35px;
+            }
+            #e3{
+                height: 350x;
+                width: 350px;
+                border-radius:35px;
+            }
+            #e4{
+                height: 300px;
+                width: 350px;
+                border-radius: 35px;
+            }
+        </style>
+    </header>
+    <body>
+        <div class="container-fluid">
+            <h1 style="text-align:center">
+                MY HOBBIES
+            </h1>
+            <div class="container" id="ho1">
+                <img id="e1" src="https://i.ytimg.com/vi/lJpTDyorFA0/sddefault.jpg"><br>
+                <h2>
+                    Painting
+                </h2><br>
+                <p style="text-align:center">-----------------------------------</p>
+            </div>
+            <div class="container" id="ho2">
+                <img id="e2" src="https://hunterae.com/wp-content/uploads/2020/08/computer-code-programming-screen-loop-25085885-download-videohive-free-hunterae-com.jpg"><br>
+                <h2>
+                    Coding
+                </h2><br>
+                <p style="text-align:center">-----------------------------------</p>
+            </div>
+            <div class="container" id="ho3">
+                <img id="e3" src="https://media.istockphoto.com/id/944631208/photo/education-concept-with-book-in-library.jpg?s=612x612&w=0&k=20&c=uJF-uOU5MRR-iwXqJEPAdXeaH-VJ-nqt6TdKUpEdEkk=">
+                <h2>
+                    Studying
+                </h2><br>
+                <p style="text-align:center">-----------------------------------</p>
+            </div>
+            <div class="container" id="ho4">
+                <img id="e4" src="https://www.shutterstock.com/image-photo/car-driving-on-beautiful-road-600nw-2473243119.jpg">
+                <h2>
+                    Travelling
+                </h2><br>
+                <p style="text-align:center">-----------------------------------</p>
+            </div>
+        </div>
+    </body>
+</html>
