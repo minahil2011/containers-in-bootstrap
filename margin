@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>
+            Margin and Padding
+        </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    </header>
+    <body>
+        <div class="container-fluid border border-dark p-3 mb-5">
+            <h1>
+                I love Coding.
+            </h1>
+        </div>
+        <div class="container-fluid border border-info p-5 my-4">
+            <h1>
+                I am learning Bootstrap.
+            </h1>
+        </div>
+    </body>
+</html>
