@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>
+            Containers in Bootstrap
+        </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    </header>
+    <body>
+        <h1>
+            Containers in Bootstrap
+        </h1>
+        <div class="container-fluid">
+            <h1>
+                Container-Fluid 
+            </h1>
+            <p>
+               Container-Fluid is a Bootstrap layout class that creates a full-width container, spanning 100% of the viewport width across all device breakpoints. Unlike the standard .container, which has fixed max-widths and centered content, .container-fluid provides continuous, edge-to-edge responsiveness with default horizontal padding of 15px. 
+           </p>
+        </div>
+        <div class="container">
+            <h1>
+                Container
+            </h1>
+            <p>
+               In Bootstrap, containers are a fundamental layout element used to contain, pad, and align content within a given viewport, and are essential for using the grid system. 
+            </p>
+        </div>
+    </body>
+</html>
